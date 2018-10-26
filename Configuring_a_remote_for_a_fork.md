@@ -1,4 +1,4 @@
-#Configuring a remote for a fork
+# Configuring a remote for a fork
 
 1. Open Terminal.
 
