@@ -3,7 +3,7 @@
 
 
 
-Your Identity
+### Your Identity
 
 The first thing you should do when you install Git is to set your user name and email address. This is important because every Git commit uses this information, and it’s immutably baked into the commits you start creating:
 
@@ -23,7 +23,7 @@ If you want to use a different text editor, such as Emacs, you can do the follow
 
 
 
-Checking Your Settings
+### Checking Your Settings
 
 If you want to check your configuration settings, you can use the git config --list command to list all the settings Git can find at that point:
 
@@ -42,6 +42,3 @@ You can also check what Git thinks a specific key’s value is by typing git con
 
 	$ git config user.name
 	John Doe
-
-
-
