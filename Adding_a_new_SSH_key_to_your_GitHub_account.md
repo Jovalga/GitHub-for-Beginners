@@ -1,4 +1,4 @@
-#Adding a new SSH key to your GitHub account
+# Adding a new SSH key to your GitHub account
 
 **Steps**
 
