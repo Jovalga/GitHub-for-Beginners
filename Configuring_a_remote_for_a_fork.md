@@ -2,6 +2,8 @@
 
 1. Open Terminal.
 
+	ctrl + alt + t
+
 2. List the current configured remote repository for your fork.
 
 	git remote -v
